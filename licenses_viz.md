@@ -17,8 +17,8 @@ I standardized column names, removed rows with missing `license_type` or `licens
 This chart highlights which professions dominate the dataset and which have a high proportion of active versus inactive licenses, making it a strong summary of professional activity distribution.
 
 <div style="margin:1rem 0;">
-  <a class="btn" style="background-color:#1E90FF; color:white;" href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank">The Data</a>
-  <a class="btn" style="background-color:#1E90FF; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/licenses_viz.ipynb" target="_blank">The Analysis</a>
+  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank">The Data</a>
+  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/licenses_viz.ipynb" target="_blank">The Analysis</a>
 </div>
 
 <iframe src="https://rohityadav-edu.github.io/assets/vis/licenses/chart1.html" width="100%" height="520" style="border:1px solid #ddd;border-radius:6px;"></iframe>
@@ -41,8 +41,8 @@ This plot introduces a selection parameter bound to a dropdown menu. When a lice
 This visualization helps identify seasonal or yearly changes in licensing activity for any chosen profession, such as increases in new “Appraisal” licenses in specific years.
 
 <div style="margin:1rem 0;">
-  <a class="btn" href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank">The Data</a>
-  <a class="btn" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/licenses_viz.ipynb" target="_blank">The Analysis</a>
+  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank">The Data</a>
+  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/licenses_viz.ipynb" target="_blank">The Analysis</a>
 </div>
 
 <iframe src="https://rohityadav-edu.github.io/assets/vis/licenses/chart2.html" width="100%" height="520" style="border:1px solid #ddd;border-radius:6px;"></iframe>
