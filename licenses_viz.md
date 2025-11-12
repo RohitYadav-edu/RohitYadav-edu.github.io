@@ -18,7 +18,7 @@ This chart highlights which professions dominate the dataset and which have a hi
 
 <div style="margin:1rem 0;">
   <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank">The Data</a>
-  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/licenses_viz.ipynb" target="_blank">The Analysis</a>
+  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/Licenses_viz.ipynb" target="_blank">The Analysis</a>
 </div>
 
 <iframe src="https://rohityadav-edu.github.io/assets/vis/licenses/chart1.html" width="100%" height="520" style="border:1px solid #ddd;border-radius:6px;"></iframe>
@@ -42,7 +42,7 @@ This visualization helps identify seasonal or yearly changes in licensing activi
 
 <div style="margin:1rem 0;">
   <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv" target="_blank">The Data</a>
-  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/licenses_viz.ipynb" target="_blank">The Analysis</a>
+  <a class="btn" style="background-color:#002d59; color:white;" href="https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/blob/main/python_notebooks/Licenses_viz.ipynb" target="_blank">The Analysis</a>
 </div>
 
 <iframe src="https://rohityadav-edu.github.io/assets/vis/licenses/chart2.html" width="100%" height="520" style="border:1px solid #ddd;border-radius:6px;"></iframe>
