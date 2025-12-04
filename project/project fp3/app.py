@@ -478,7 +478,7 @@ st.markdown(
 **Code and analysis**
 
 - Our Streamlit application and related project files are hosted in our GitHub repository:  
-  https://github.com/RohitYadav-edu/RohitYadav-edu.github.io  
+  https://github.com/RohitYadav-edu/RohitYadav-edu.github.io/tree/main/project 
 
   The contextual visualizations shown above were created by our group using this same
   dataset. The code that produces them lives directly in this `app.py` file and in
