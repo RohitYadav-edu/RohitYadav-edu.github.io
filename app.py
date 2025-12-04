@@ -382,8 +382,19 @@ with st.expander("Expert Documentation – How to Use This Dashboard?", expanded
     This dashboard enables experts to move from:
     **broad → focused → geographic → temporal → operational insights**  
     using a clean, reproducible workflow suitable for urban planning, criminology, and policy analytics.
-    """)
+    
+    ---
 
+    ## 7. Dashboard Description (For Non-Experts)
+
+    This dashboard is also designed to be understandable for non-experts who may not have a technical background. To use it, you simply choose a **year** from the dropdown at the top, and the dashboard instantly loads all crime records for that year from the City of Chicago’s open data portal. You can then narrow down the view using filters for **crime types**, **police districts**, and **location descriptions** (for example: street, residence, alley, or transit area). As you change these filters, all graphs and maps update automatically.  
+    The visualizations help you quickly answer questions like:  
+   - *Which types of crime happen most often?*  
+   - *Where in the city do these crimes occur?*  
+   - *Are they more common during certain months, days of the week, or times of day?*  
+
+   The goal of this section of the dashboard is to let any viewer, even without data science or criminology experience, clearly explore patterns in Chicago crime and discover insights in an intuitive, visual way.
+    """)
 
 # -------------------------
 # TOP FILTER BAR (REAL TOP PANEL)
