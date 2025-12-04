@@ -339,7 +339,6 @@ if {"Latitude", "Longitude"}.issubset(source_df.columns):
 
         tooltip = {
             "html": "<b>Type:</b> {Primary Type}<br/>"
-                    "<b>Date:</b> {Date}<br/>"
                     "<b>Location:</b> {Location Description}",
             "style": {
                 "backgroundColor": "rgba(15,23,42,0.95)",
