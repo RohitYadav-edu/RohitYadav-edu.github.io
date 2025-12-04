@@ -394,6 +394,22 @@ with st.expander("Expert Documentation – How to Use This Dashboard?", expanded
    - *Are they more common during certain months, days of the week, or times of day?*  
 
    The goal of this section of the dashboard is to let any viewer, even without data science or criminology experience, clearly explore patterns in Chicago crime and discover insights in an intuitive, visual way.
+   
+    ---
+
+    ## 8. Contextual Dataset(s) for Future Storytelling
+
+    Beyond this core crime dataset, we have identified a **contextual dataset** that would help explain *why* certain areas show higher crime levels:
+
+    - **Chicago community area demographics and socio-economic indicators**  
+      Source (example): https://data.cityofchicago.org/Health-Human-Services/Health-Lifestyle-Indicators-By-Community-Area/iqnk-2tcu
+
+    **Why this is useful for the final story:**
+    - It lets us normalize crime counts per capita, so we can compare “crime rates” instead of just raw counts.
+    - We can relate crime patterns to income level, education, population density, or age distribution.
+    - It helps answer questions like “Is this district a hotspot because it is more densely populated, or because something else is going on?”
+
+    In later parts of the final project, we plan to bring in this contextual dataset (or similar ones from the Chicago Data Portal) to create **contextual visualizations** that combine crime statistics with neighborhood-level demographics.
     """)
 
 # -------------------------
